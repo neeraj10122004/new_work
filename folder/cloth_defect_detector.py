@@ -3,7 +3,7 @@ import PIL.Image
 
 print(genai.__version__)
 
-gemini_api_key = "AIzaSyDYfQmz7AHGbtvY4l5UJGVCa8JJgJrDjaQ"
+gemini_api_key = #apikey
 
 genai.configure(api_key = gemini_api_key)
 def get_response(prompt,command):
